@@ -1,1 +1,32 @@
-{"dataFormatVersion": "0.2.3", "updatedAt": "2019-06-04T16:20:06.398Z", "legalEntity": {"name": "Payne PLC", "address": {"road": "1433 Anderson Keys", "city": "West Ericshire, UT 99835", "countryCode": "US"}, "contact": {"email": "psmith@gmail.com"}}, "hotel": {"location": {"latitude": "38.91817", "longitude": "-78.19444"}, "name": "Shelly Griffith", "website": "https://wttrust.kunveni.net", "apis": [{"entrypoint": "https://wttrust.kunveni.net/api", "docs": "https://wttrust.kunveni.net/docs", "format": "windingtree", "version": "0.8.3", "segment": "hotels"}]}}
+{
+  "dataFormatVersion": "0.2.3",
+  "updatedAt": "2019-06-04T16:20:06.398Z",
+  "legalEntity": {
+    "name": "Payne PLC",
+    "address": {
+      "road": "1433 Anderson Keys",
+      "city": "West Ericshire, UT 99835",
+      "countryCode": "US"
+    },
+    "contact": {
+      "email": "psmith@gmail.com"
+    }
+  },
+  "hotel": {
+    "location": {
+      "latitude": "38.91817",
+      "longitude": "-78.19444"
+    },
+    "name": "Shelly Griffith",
+    "website": "https://wttrust.kunveni.net",
+    "apis": [
+      {
+        "entrypoint": "https://wttrust.kunveni.net/api",
+        "docs": "https://wttrust.kunveni.net/docs",
+        "format": "windingtree",
+        "version": "0.8.3",
+        "segment": "hotels"
+      }
+    ]
+  }
+}

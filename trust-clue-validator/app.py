@@ -36,21 +36,6 @@ def fetch_orgid(url):
     return response.json()
 
 
-class FetchOrgIdJson(Resource):
-    def get(self):
-
-        parser = reqparse.RequestParser()
-        parser.add_argument("orgid_url", type=str)
-        args = parser.parse_args()
-        orgid_url = args["orgid_url"]
-
-        try:
-            log.info(f"Fetching org.id json from {orgid_url}")
-            return fetch_orgid(orgid_url)
-        except Exception as e:
-            log.error(e)
-
-
 def getDomainFromOrgIdJson(orgjson):
     orgid = Box(orgjson)
     website_url = urlparse(orgid.hotel.website)
@@ -157,6 +142,4 @@ api.add_resource(FetchTrustedLinks, "/clue/p2ptrust")
 
 
 if __name__ == "__main__":
-    w3 = Web3(HTTPProvider("https://ropsten.infura.io"))
-    print(w3.eth.getBlock("latest"))
     app.run(host="0.0.0.0", debug=True)

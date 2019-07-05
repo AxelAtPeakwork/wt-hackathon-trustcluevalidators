@@ -1,1 +1,32 @@
-{"dataFormatVersion": "0.2.3", "updatedAt": "2019-06-04T16:20:06.398Z", "legalEntity": {"name": "Fischer-Harvey", "address": {"road": "302 Cindy Highway Apt. 116", "city": "Michaelhaven, GA 82874", "countryCode": "US"}, "contact": {"email": "codybyrd@washington-ortiz.com"}}, "hotel": {"location": {"latitude": "33.03699", "longitude": "-117.29198"}, "name": "Karen Richardson", "website": "https://wttrust.kunveni.net", "apis": [{"entrypoint": "https://wttrust.kunveni.net/api", "docs": "https://wttrust.kunveni.net/docs", "format": "windingtree", "version": "0.8.3", "segment": "hotels"}]}}
+{
+  "dataFormatVersion": "0.2.3",
+  "updatedAt": "2019-06-04T16:20:06.398Z",
+  "legalEntity": {
+    "name": "Fischer-Harvey",
+    "address": {
+      "road": "302 Cindy Highway Apt. 116",
+      "city": "Michaelhaven, GA 82874",
+      "countryCode": "US"
+    },
+    "contact": {
+      "email": "codybyrd@washington-ortiz.com"
+    }
+  },
+  "hotel": {
+    "location": {
+      "latitude": "33.03699",
+      "longitude": "-117.29198"
+    },
+    "name": "Karen Richardson",
+    "website": "https://wttrust.kunveni.net",
+    "apis": [
+      {
+        "entrypoint": "https://wttrust.kunveni.net/api",
+        "docs": "https://wttrust.kunveni.net/docs",
+        "format": "windingtree",
+        "version": "0.8.3",
+        "segment": "hotels"
+      }
+    ]
+  }
+}
