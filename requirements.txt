@@ -1,0 +1,7 @@
+flask
+flask-restful
+flask-cors
+requests
+python-box
+dnspython>=1.16.0
+web3==4.9.2

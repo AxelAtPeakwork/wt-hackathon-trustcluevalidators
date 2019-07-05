@@ -2,16 +2,11 @@ import dns.resolver
 import json
 import logging
 from urllib.parse import urlparse
-
-
 from box import Box
-
 from flask import Flask
 from flask_restful import Resource, Api, reqparse
 from flask_cors import CORS
-
 import requests
-
 from web3 import Web3, HTTPProvider
 
 
