@@ -1,0 +1,52 @@
+start_ID:START_ID,end_ID:END_ID,relationship_type,reason,updated_at,:TYPE
+1122,1133,supplier,delayed payment,1/07/2019,distrust
+1144,1133,supplier,,2/07/2019,trust
+1331,1133,supplier,,3/07/2019,trust
+1375,1133,reseller,,4/07/2019,trust
+1397,1133,reseller,,5/07/2019,trust
+1397,1276,vendor,,6/07/2019,trust
+1397,1507,vendor,complaint,7/07/2019,distrust
+1397,1309,vendor,,8/07/2019,trust
+1375,1144,vendor,,1/07/2019,trust
+1375,1155,vendor,,2/07/2019,trust
+1375,1166,vendor,,3/07/2019,trust
+1375,1177,vendor,,4/07/2019,trust
+1375,1188,vendor,,5/07/2019,trust
+1375,1199,vendor,,6/07/2019,trust
+1375,1210,vendor,,7/07/2019,trust
+1375,1221,vendor,,8/07/2019,trust
+1375,1232,vendor,,1/07/2019,trust
+1375,1386,reseller,missed payment,2/07/2019,distrust
+1375,1441,reseller,,3/07/2019,trust
+1375,1452,reseller,,4/07/2019,trust
+1276,1331,supplier,,3/07/2019,trust
+1276,1397,supplier,,4/07/2019,trust
+1331,1144,vendor,,8/07/2019,trust
+1331,1155,vendor,,1/07/2019,trust
+1331,1166,vendor,,2/07/2019,trust
+1331,1177,vendor,,3/07/2019,trust
+1331,1188,vendor,,4/07/2019,trust
+1331,1199,vendor,,3/07/2019,trust
+1331,1210,vendor,,4/07/2019,trust
+1331,1221,vendor,,3/07/2019,trust
+1331,1232,vendor,,4/07/2019,trust
+1331,1243,vendor,,1/07/2019,trust
+1331,1254,vendor,,2/07/2019,trust
+1331,1265,vendor,,3/07/2019,trust
+1331,1276,vendor,,4/07/2019,trust
+1331,1287,vendor,,3/07/2019,trust
+1331,1298,vendor,,4/07/2019,trust
+1331,1309,vendor,,3/07/2019,trust
+1331,1320,vendor,missed payment,4/07/2019,distrust
+1331,1518,vendor,,3/07/2019,trust
+1375,1342,reseller,,4/07/2019,trust
+1375,1353,reseller,,1/07/2019,trust
+1375,1364,reseller,,2/07/2019,trust
+1375,1520,reseller,no response,3/07/2019,distrust
+1397,1520,vendor,,3/07/2019,trust
+1397,1254,vendor,,4/07/2019,trust
+1397,1265,vendor,,1/07/2019,trust
+1397,1276,vendor,,2/07/2019,trust
+1397,1287,vendor,,3/07/2019,trust
+1397,1298,vendor,,4/07/2019,trust
+1397,1309,vendor,,3/07/2019,trust

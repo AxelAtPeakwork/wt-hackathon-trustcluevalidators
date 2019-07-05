@@ -1,0 +1,39 @@
+org_ID:ID,name,dns,est_date,updated_date,trust_score:float,location org_type,:LABEL
+1122,ABC flights,111.222.333,02/18/17,7/06/2019,0.77,Sydney,airline
+1133,SW travels,111.222.334,04/15/13,6/06/2019,0.4,Lisbon,OTA
+1144,Lufthansa,111.222.335,1/01/2010,6/06/2019,0.9,Germany,airline
+1155,Ryanair,111.222.336,1/01/2010,6/06/2019,0.5,UK,airline
+1166,Air France,111.222.337,1/01/2010,6/06/2019,0.8,France,airline
+1177,Eurowings,111.222.338,1/01/2010,6/06/2019,0.4,Germany,airline
+1188,easyJet,111.222.339,1/01/2010,6/06/2019,0.5,UK,airline
+1199,Turkish Airlines,111.222.340,1/01/2010,6/06/2019,0.8,Turkey,airline
+1210,Norwegian Air,111.222.341,1/01/2010,6/06/2019,0.9,Norway,airline
+1221,Wizz Air,111.222.342,1/01/2010,6/06/2019,0.7,Hungry,airline
+1232,Emirates,111.222.343,1/01/2010,6/06/2019,0.9,Emirates,airline
+1243,Emirates Palace,111.222.344,1/01/2010,6/06/2019,0.9,Abu Dhabi,hotel;accomodation
+1254,Rancho Valencia Resort & Spa,111.222.345,1/01/2010,6/06/2019,0.95,USA,hotel;accomodation
+1265,The Westin Excelsior,111.222.346,1/01/2010,6/06/2019,0.95,USA,hotel;accomodation
+1276,"The Plaza, New York City ",111.222.347,1/01/2010,6/06/2019,0.95,USA,hotel;accomodation
+1287,Heritage Marina Hotel,111.222.348,1/01/2010,6/06/2019,0.95,USA,hotel;accomodation
+1298,Boulevard Hotel Ocean Drive ,111.222.349,1/01/2010,6/06/2019,0.95,USA,hotel;accomodation
+1309,Tropicana Resort Hotel,111.222.350,1/01/2010,6/06/2019,0.8,UK,hotel;accomodation
+1320,Quest Inn Motel,111.222.351,1/01/2010,6/06/2019,0.7,UK,hotel;accomodation
+1331,Lastminute.com,111.222.352,1/01/2010,6/06/2019,0.9,UK,OTA
+1342,Opodo,111.222.353,1/01/2010,6/06/2019,0.9,USA,OTA
+1353,eDreams,111.222.354,1/01/2010,6/06/2019,0.9,USA,OTA
+1364,Expedia,111.222.355,1/01/2010,6/06/2019,0.9,UK,OTA
+1375,skyscanner,111.222.356,1/01/2010,6/06/2019,0.9,USA,OTA
+1386,flyfar,111.222.357,1/01/2010,6/06/2019,0.3,USA,OTA
+1397,bookings.com,111.222.358,1/01/2010,6/06/2019,0.9,China,OTA
+1408,FlixBus,111.222.359,1/01/2010,6/06/2019,0.8,Germany,bus;transport
+1419,Greyhound,111.222.360,1/01/2010,6/06/2019,0.8,UK,bus;transport
+1430,Princess Cruise,111.222.361,1/01/2010,6/06/2019,0.8,UK,cruise;transport
+1441,Flight Centre,111.222.362,1/01/2010,6/06/2019,0.7,Australia,OTA
+1452,kiwi.com,111.222.363,1/01/2010,6/06/2019,0.8,Czech Republic,OTA
+1463,Bolivian Bus,111.222.364,1/01/2010,6/06/2019,0.8,Bolivia,bus;transport
+1474,ABC rafting,111.222.365,1/01/2010,6/06/2019,0.4,Colombia,tour operator
+1485,Contiki,111.222.366,1/01/2010,6/06/2019,0.8,USA,tour operator
+1496,Top Deck,111.222.367,1/01/2010,6/06/2019,0.8,UK,tour operator
+1507,Sunny Hut,111.222.368,1/01/2010,7/06/2019,0.3,Croatia,hotel;accomodation
+1518,YHA,111.222.369,1/01/2010,8/06/2019,0.8,UK,hostel;accomodation
+1520,XYA travels,111.222.370,1/01/2010,8/06/2019,0.4,,OTA
